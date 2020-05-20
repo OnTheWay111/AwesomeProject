@@ -6,6 +6,7 @@
     "body-parser": "~1.4.3",
     "core-util-is": "^1.0.2",
     "express": "4.x",
-    "istanbul-middleware": "*"
+    "istanbul-middleware": "git+https://github.com/OnTheWay111/istanbul-middleware.git",
+    "nyc": "15.0.1"
   }
 }
