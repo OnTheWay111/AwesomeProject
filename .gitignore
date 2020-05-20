@@ -1,0 +1,7 @@
+/android/
+/ios/
+/node_modules/
+/coverage_middleware/.nyc_output/
+/coverage_middleware/node_modules/
+/__tests__/
+/.idea/
